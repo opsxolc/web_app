@@ -1,0 +1,13 @@
+drop table flow_class;
+drop table group_class;
+drop table student_class;
+drop table sclass;
+drop table teacher_course;
+drop table student;
+drop table sgroup;
+drop table course;
+drop table classroom;
+drop table teacher;
+drop table flow;
+drop table wp;
+drop table admin;
